@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908766341740",
+    "project_id": "ml-app-2ab73",
+    "storage_bucket": "ml-app-2ab73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908766341740:android:caef31b432cea354a38649",
+        "android_client_info": {
+          "package_name": "com.vitalyz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908766341740-f9u4vh8di2g5en3ocvciarloh1n1ca4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChcKoGVJYuDCfDgYISarTGMbaW-BqXqlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908766341740-f9u4vh8di2g5en3ocvciarloh1n1ca4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
