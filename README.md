@@ -87,6 +87,9 @@ Follow these steps to set up the Vitalyz mobile application locally.
 4.  *Run the application:*
     flutter run
 
-    
+
+
+
+    VITALYZ APP LINK - https://drive.google.com/file/d/1quBi9aC7xBNF5mLlBHi4x1jwIKCMQwOD/view?usp=sharing
 
 ---
